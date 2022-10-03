@@ -6,4 +6,9 @@ if len(t)==4 :
     print(" есть четырехзначное число")
 else :
     print(" не является четырехзначным числом")
-    
+
+############### 6 ################
+def main(l):
+    print(*(i for i in l if i[-1] == '0'))
+lst = input().split()
+main(lst)
