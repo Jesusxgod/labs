@@ -1,5 +1,5 @@
 # Сданы
-<img class="sdan" align="right" width="400px" height="150px" src="https://steamuserimages-a.akamaihd.net/ugc/794233491556809313/8BC3334B5E7E6BBEBA2D001FFA111DDBC88422E9/"></img>
+<img class="sdan" align="right" width="300px" height="150px" src="https://steamuserimages-a.akamaihd.net/ugc/794233491556809313/8BC3334B5E7E6BBEBA2D001FFA111DDBC88422E9/"></img>
 
 | Лаба          | Оценка(на скок сделана)| Фактическая оценка |
 | ------------- |:----------------------:|:------------------:|
@@ -9,7 +9,7 @@
 
 
 # Не сданы
-<img class="nesdan" align="right" width="400px" height="220px" src="https://c.tenor.com/mVULdJJCae4AAAAC/zen-zenyatta.gif/"></img>
+<img class="nesdan" align="right" width="300px" height="220px" src="https://c.tenor.com/mVULdJJCae4AAAAC/zen-zenyatta.gif/"></img>
 
 | Лаба          | Оценка(на скок сделана)| Фактическая оценка |
 | ------------- |:----------------------:|:------------------:|
