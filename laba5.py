@@ -39,16 +39,8 @@ def f(x: float) -> float:
 print(f"y = {f(float(input('x = ')))}")
 
 ######### 3 #########
-# Вариант 10 
-# херня полная
-import math
 
-def f(x, y: float) -> float:
-    return math.sin(y-1) + x - 1.3
-    return y - math.sin(x + 1) - 0.8
-print(f"y = {f(float(input('x = ')))}")
-
-######### 3 #########
+######### 4 #########
 # Вариант 10
 # доработат
 a = int(input("Введите число 1:"))
