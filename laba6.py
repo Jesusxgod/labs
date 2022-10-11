@@ -31,3 +31,46 @@ print(len(all))
 print('\n'.join(sorted(all)))
 
 ####### 5 ########
+a = set('1234')
+b = set('3456')
+c = a | b
+print(c)
+
+####### 6 ########
+
+####### 7 ########
+
+####### 8 ########
+counter = {}
+for i in range(int(input())):
+    line = input().split()
+    for word in line:
+        counter[word] = counter.get(word, 0) + 1
+        
+max_count = max(counter.values())
+most_frequent = [k for k, v in counter.items() if v == max_count]
+print(min(most_frequent))
+
+####### 9 ########
+from collections import defaultdict
+from sys import stdin
+
+clients = defaultdict(lambda: defaultdict(int))
+for line in stdin.readlines():
+    client, thing, value = line.split()
+    clients[client][thing] += int(value)
+        
+for client in sorted(clients):
+    print(client + ':')
+    for thing in sorted(clients[client]):
+        print(thing, clients[client][thing])
+        
+####### 10 ########
+states = {}
+ 
+for _ in range(int(input())):
+    state, *cities = input().split()
+    for city in cities:
+        states[city] = state
+ 
+print(*(states[input()] for _ in range(int(input()))), sep="\n")
