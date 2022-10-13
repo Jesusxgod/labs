@@ -51,7 +51,7 @@ class Word:
  
     def alphabet(self):
         alphabet = sorted(wordsnum)
-        print(print(f'Слова в алфавитном порядке {alphabet}')
+        print(f'Слова в алфавитном порядке {alphabet}')
  
     def counter(self):
         print('Я хз как это сделать')
