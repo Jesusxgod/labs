@@ -1,4 +1,5 @@
 # Лабы
+<img class="sdan" align="right" width="300px" height="370px" src="https://steamuserimages-a.akamaihd.net/ugc/794233491556809313/8BC3334B5E7E6BBEBA2D001FFA111DDBC88422E9/"></img>
 | Лаба          | На скок сделана| Оценка |
 | ------------- |:--------------:|:------:|
 | Лаба 1        | `5`            | `5`    |
@@ -12,6 +13,7 @@
 | Лаба 9        | `???`          | `???`    |
 
 # Практосы
+<img class="nesdan" align="right" width="300px" height="260px" src="https://c.tenor.com/mVULdJJCae4AAAAC/zen-zenyatta.gif/"></img>
 | Практос       | Сделан? | Сдан? |
 | ------------- |:-------:|:-----:|
 | Практос 1     | `+`     | `-`   |
