@@ -47,11 +47,11 @@ class Word:
         self.countpages = countpages
  
     def wordsnum(self):
-        print(wordsnum)
+        print(f'Слова встречающиеся {self.page} раз: {wordsnum}')
  
     def alphabet(self):
         alphabet = sorted(wordsnum)
-        print(alphabet)
+        print(print(f'Слова в алфавитном порядке {alphabet}')
  
     def counter(self):
         print('Я хз как это сделать')
@@ -65,4 +65,4 @@ wordsnum = ['Lab', 'Practice', 'I', 'love', 'pihon']
 print(word)
 word.wordsnum()
 word.alphabet()
-word.counter()
+# word.counter()
