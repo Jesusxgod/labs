@@ -1,5 +1,5 @@
 # Лабы
-<img class="sdan" align="right" width="420px" height="370px" src="https://steamuserimages-a.akamaihd.net/ugc/794233491556809313/8BC3334B5E7E6BBEBA2D001FFA111DDBC88422E9/"></img>
+<img class="sdan" align="right" width="420px" height="370px" src="https://img2.joyreactor.cc/pics/post/%D0%9F%D0%B0%D1%81%D1%85%D0%B0-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA-%D0%B2%D1%81%D1%80%D0%B0%D1%82%D1%8B%D0%B5-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-6651960.gif"></img>
 | Лаба          | На скок сделана| Оценка |
 | ------------- |:--------------:|:------:|
 | Лаба 1        | `5`            | `5`    |
@@ -13,7 +13,7 @@
 | Лаба 9        | `???`          | `???`    |
 
 # Практосы
-<img class="nesdan" align="right" width="420px" height="260px" src="https://c.tenor.com/mVULdJJCae4AAAAC/zen-zenyatta.gif/"></img>
+<img class="nesdan" align="right" width="420px" height="260px" src="https://c.tenor.com/QQkCoq6UiHMAAAAC/gena-bukin-gena.gif"></img>
 | Практос       | Сделан? | Сдан? |
 | ------------- |:-------:|:-----:|
 | Практос 1     | `+`     | `-`   |
